@@ -12,7 +12,4 @@ export function taskFirst() {
     combination += getLast();
   
     return combination;
-  }  
-
-console.log(taskFirst());
-console.log(taskNext());
+  }
